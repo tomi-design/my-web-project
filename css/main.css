@@ -11,7 +11,7 @@ body {
 
 
 
-/***** GRID *****************/ /**just testing**/
+/***** GRID *****************/
 
 
 .full-width {
@@ -42,7 +42,7 @@ header {
 header h1 {
     	font-family: 'Lato', sans-serif;
 			font-weight: bolder;
-    	color: black;
+    	color: yellow;
     	font-size: 80px;
 			letter-spacing: 5px;
     	padding-top: 30px;
