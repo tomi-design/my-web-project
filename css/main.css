@@ -34,18 +34,18 @@ body {
 
 
 header {
-   	  background: url('../img/headerphoto.png');
+   	  background: url('../img/hero.png');
     	height: 1000px;
     	background-size: cover;
 }
 
 header h1 {
-    	font-family: 'Lato', sans-serif;
+    	font-family: 'Lora', sans-serif;
 			font-weight: bolder;
-    	color: black;
-    	font-size: 80px;
-			letter-spacing: 5px;
-    	padding-top: 30px;
+    	color: #BBC085;
+    	font-size: 30px;
+			letter-spacing: 0px;
+    	padding-top: 90px;
 }
 
 nav {
@@ -70,14 +70,17 @@ nav ul li a {
 header h2 {
     	width: 1000px;
     	clear: both;
-    	font-family: 'Oswald', sans-serif;
-			font-weight: normal;
-    	font-size: 100px;
+    	font-family: 'Lora', sans-serif;
+			font-weight: bold;
+    	font-size: 72px;
     	line-height: 80px;
-    	color:  #e68a00;
+    	color:  #9b9b9b;
 			padding: 0px 40px 20px 0px;
 }
 
+header span {
+			color: #2b2b2b;
+}
 
 
 /****ABOUT*****************/
